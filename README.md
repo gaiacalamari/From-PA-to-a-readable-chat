@@ -1,6 +1,6 @@
 # From-PA-to-a-readable-chat
 I developed this code to make PA's printed PDF chat reports easier to read, without loosing any information.
-If you want the "speech to text" functionality, you need to have an Azure account <href="https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-to-text"/>
+If you want the "speech to text" functionality, you need to have an Azure account https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-to-text
 
 Phase 0: Preliminary step
 -	Export the conversation of interest from the Cellebrite Physical Analyzer software in Excel format, naming the file 'chat.xlsx':
