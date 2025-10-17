@@ -25,3 +25,5 @@ Step 2: Transcription into a word document
       o	Note: it performs approximately 450 transcriptions per hour.
       o	Note: a docx file is saved for every 100 transcriptions. If something happens (sudden PC shutdown, reboot caused by an update…), by restarting the script, you’ll start from the last transcription saved into that temporary file. At the end of the transcriptions,            you’ll have a single docx.
 
+Step 3: Run the creationchat.py
+
