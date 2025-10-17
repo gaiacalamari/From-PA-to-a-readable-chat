@@ -10,7 +10,9 @@ Phase 0: Preliminary step
 Step 1: Conversation from opus to wav
 -	Inside the folder containing the .bat file (that converts the audio from .opus to .wav), create a folder called 'opus' and insert all the audio files exported from the chat (in 'instant_messages\WhatsApp\1'). 
 -	Then create a destination folder called 'My_audio', which will contain all the audio converted to .wav
+
   <img width="178" height="102" alt="immagine" src="https://github.com/user-attachments/assets/5d613d30-1679-4121-aebc-48d41f96174c" />
+  
 -	At this point double click on the .bat file and wait
     o	After a few seconds all the files are converted in ‘My_audio’ folder.
  	
