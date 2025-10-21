@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+
 # From-PA-to-a-readable-chat
 I developed this code to make PA's printed PDF chat reports easier to read, without loosing any information.
 If you want the "speech to text" functionality, you need to have an Azure account https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-to-text
